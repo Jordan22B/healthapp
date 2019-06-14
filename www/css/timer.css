@@ -1,0 +1,27 @@
+.col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#controls {
+  padding: 20px 0;
+}
+
+#timer {
+	position:relative;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#timerText {
+  position: absolute;
+  font-size: 125%;
+}
+
+#wrappertimer {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,10 @@
+.app {
+  margin-top: 10%;
+  width: 80%;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.app .form-control {
+  margin-top: 8px;
+}
